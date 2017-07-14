@@ -1,2 +1,2 @@
 # shuati
-Coding practice
+This is the place for coding practice
